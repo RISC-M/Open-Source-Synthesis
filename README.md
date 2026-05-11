@@ -1,6 +1,6 @@
 # Open-Source EDA Flow
 
-A portable, open-source synthesis and simulation stack for Verilog/SystemVerilog projects — built as an alternative to Synopsys/Cadence toolchains. Originally developed for the **EECS 470** LC2K processor project at the University of Michigan, but usable for any digital design project.
+Open source synthesis and simulation stack for Verilog/SystemVerilog projects as a replacement for Synopsys/Cadence toolchains. Originally developed for the **EECS 470** LC2K processor project at the University of Michigan, but usable for any digital design project.
 
 Works on **macOS** and **Ubuntu / WSL2**.
 
